@@ -1,0 +1,16 @@
+
+
++++++++++++++++++++++++++++++++++++++++
+START OF TEST:
+MAX SEARCH DEPTH = 10
+MAX SEARCH TIME = 5s
++++++++++++++++++++++++++++++++++++++++
+KENNY> error opening file: BT2450.pgn
+
+
++++++++++++++++++++++++++++++++++++++++
+SUMMARY:
+TOTAL TIME SEARCHED  = 3 ms
+TOTAL NODES SEARCHED = 0
+AVG SEARCH SPEED     = 0 knps
++++++++++++++++++++++++++++++++++++++++
