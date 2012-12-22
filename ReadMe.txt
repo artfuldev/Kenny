@@ -1,5 +1,5 @@
 Kenny v0.1.1.0
-by Kenshin Himura, CC-NC-SA License (see License.txt)
+by Kenshin Himura, CC-BY-NC-SA License (see License.txt)
 
 Kenny is a Winboard/XBoard chess engine based on Winglet, an open source chess program. Winglet's full source code can be obtained from [http://www.sluijten.com/winglet/source/index.htm].
 
