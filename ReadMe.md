@@ -1,5 +1,5 @@
 #Kenny v0.1.1.0
-* Authors: Kenshin Himura *(Sudarsan Balaji)*
+* Author: Kenshin Himura *(Sudarsan Balaji)*
 * License: *GNU GPL v3 and CC-BY-NC-SA Licenses* (see gpl.txt and ccbyncsa.txt)
 * ReadMe Version: 1.2
 
