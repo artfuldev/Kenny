@@ -11,5 +11,5 @@ Kenny is an advanced form of Winglet which plays better at some faster time leve
 Kenny uses modified values for evaluation of various parameters, thus introducing almost an entirely new engine, because the evaluation function is the heart of a chess engine.
 
 ##Visions
-* Better board representation using fully object oriented programming using proper class heirarchy (probably in a an entirely new repo)
+* Better board representation using fully object oriented programming using proper class heirarchy (probably in an entirely new repo)
 * Modification of the evaluation function to a better one (pending some neural networks analyses on my side)
