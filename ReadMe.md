@@ -13,3 +13,6 @@ Kenny uses modified values for evaluation of various parameters, thus introducin
 ##Visions
 * Better board representation using fully object oriented programming using proper class heirarchy (probably in an entirely new repo)
 * Modification of the evaluation function to a better one (pending some neural networks analyses on my side)
+* History pruning implementation
+* Killer Moves implementation
+* Better Move-ordering and pruning of serach tree
